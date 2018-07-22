@@ -1,1 +1,79 @@
+body{
+	background-color: #EAEBE6;
+	font-weight: bold;
+	font-size: 17px;
+	font-family: garamond;
+}
 
+h1{
+	text-align: center;
+	color:#a4a400;
+	font-family: futura;
+	font-size: 22pt;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+h2{
+	font-size: 18pt;
+	color:#a4a400;
+}
+
+p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#introduction{
+	text-indent: 2em;
+	margin: 20px auto 0;
+	width: 560px;
+	font-size: 30px;
+	text-align:justify;
+}
+
+#p1{
+	position: relative;
+	float: right;
+	top: -150px;
+	width: 400px;
+	border-radius:50%;
+}
+
+#welcome{
+	text-align: center;
+	font-size: 40px;
+}
+
+#pageTail{
+	height: 150px;
+	background-color:#D5D5F1;
+}
+
+#linkOfMakePie{
+	font-size: 40px;
+}
+
+#headPicture{
+	width:130px;
+	height:30px;
+}
+
+#footer{
+	text-align: center;
+	color:rgba(81, 81, 100, 0.4) 
+}
+
+#story{
+	text-indent: 2em;
+	margin: 20px auto 0;
+	width: 560px;
+	font-size: 30px;
+	text-align:justify;
+}
+
+#makePiePicture{
+	margin: 0px auto;
+	width: 560px;
+	text-align: center;
+}
